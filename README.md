@@ -1,22 +1,23 @@
 # ✈️ Airline Reservation System
 
-A comprehensive full-stack web application for booking and managing airline reservations with an intuitive user interface and robust backend infrastructure.
+A comprehensive full-stack web application for booking and managing airline reservations with a modern React frontend and robust Java backend infrastructure.
 
 ---
 
 ## 🎯 Project Overview
 
-The **Airline Reservation System** is a modern booking platform that enables users to search for flights, make reservations, and manage their bookings efficiently. The system is built with a clean architecture following industry best practices, making it scalable and maintainable.
+The **Airline Reservation System** is a full-featured booking platform that enables users to search for flights, make reservations, and manage their bookings efficiently. Built with React for dynamic UI interactions and Java for reliable backend processing, the system demonstrates modern web development practices.
 
 ---
 
 ## ✨ Key Features
 
-- **Flight Search & Filtering** - Search flights by source, destination, and date
+- **Flight Search & Filtering** - Search flights by source, destination, and date with real-time results
 - **Booking Management** - Reserve flights with unique booking codes and track booking status
-- **User Authentication** - Secure user registration and login with role-based access
+- **User Authentication** - Secure user registration and login with role-based access control
 - **Seat Availability** - Real-time seat management and availability tracking
 - **Booking History** - View and manage past and upcoming reservations
+- **Responsive UI** - Mobile-friendly interface built with React
 - **Admin Dashboard** - Manage flights, users, and bookings (admin role)
 
 ---
@@ -25,10 +26,10 @@ The **Airline Reservation System** is a modern booking platform that enables use
 
 | Category | Technology |
 |----------|-----------|
+| **Frontend** | React, JavaScript (ES6+), CSS |
 | **Backend** | Java |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Database** | MySQL / SQL |
-| **Architecture** | MVC Pattern / Layered Architecture |
+| **Database** | MySQL |
+| **Architecture** | REST API / Layered Architecture |
 | **Build Tools** | Batch Scripts |
 
 ---
