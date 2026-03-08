@@ -26,11 +26,11 @@ The **Airline Reservation System** is a full-featured booking platform that enab
 
 | Category | Technology |
 |----------|-----------|
-| **Frontend** | React, JavaScript (ES6+), CSS |
+| **Frontend** | React, CSS |
 | **Backend** | Java |
 | **Database** | MySQL |
 | **Architecture** | REST API / Layered Architecture |
-| **Build Tools** | Batch Scripts |
+
 
 ---
 
